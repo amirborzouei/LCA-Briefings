@@ -1,2 +1,2 @@
 # assets-documents-
-Developed two comprehensive briefing documents explaining the ISO 14040 (Principles and Framework) and ISO 14044 (Requirements and Guidelines) standards.
+Authored two briefing documents as part of an academic review and synthesis of international environmental management standards. The documents outline the principles, framework, and methodological requirements for conducting Life Cycle Assessments (LCA) under ISO 14040 and ISO 14044. These briefings aim to support students, professionals, and organizations in understanding and applying LCA to drive sustainable decision-making.
